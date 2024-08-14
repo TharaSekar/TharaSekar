@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/TharaSekar/ActiveDirectoryLab))
-  - [Hello World!]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/TharaSekar/ActiveDirectoryLab))
+  - [Active Directory Lab](https://github.com/TharaSekar/ActiveDirectoryLab)
+  - [Hello World!](https://github.com/TharaSekar/ActiveDirectoryLab)
 
 <h2>📺 Certifications</h2>
 
