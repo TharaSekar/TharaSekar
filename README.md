@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Lab](https://github.com/TharaSekar/ActiveDirectoryLab)
-  - [Hello World!](https://github.com/TharaSekar/ActiveDirectoryLab)
+  - [Home SOC lab - Honeypot SIEM with Microsoft Sentinel](https://github.com/TharaSekar/HomeSOCLab-HoneypotSIEM-with-MicrosoftSentinel)
 
 <h2>📺 Certifications</h2>
 
